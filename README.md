@@ -15,4 +15,8 @@
     <td>Count Filtered Rows</td>
     <td>=SUBTOTAL(3,B2:B10)</td>
   </tr>
+   </tr>
+    <td>ADD/SUM</td>
+    <td>=SUM(A1:A10)</td>
+  </tr>
 </table>
