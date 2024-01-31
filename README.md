@@ -21,4 +21,9 @@
     <td>Count Rows</td>
     <td>=ROWS(Array)</td>
   </tr>
+    <td>Count</td>
+    <td>=COUNT(C1:C4)</td>
+  </tr>
+    <td>Concatenate</td>
+    <td>=CONCATENATE(A2,B2,C2,D2)</td>
    </table>
