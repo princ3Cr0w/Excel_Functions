@@ -9,15 +9,16 @@
     <th>Syntax</th>
   </tr>
   <tr>
-    <td>Count Rows</td>
-    <td>=ROWS(Array)</td>
+     <td>ADD/SUM</td>
+    <td>=SUM(A1:A10)</td>
+  </tr>
+     <td>Average</td>
+    <td>=AVERAGE(C2, C3, C4)</td>
   </tr>
     <td>Count Filtered Rows</td>
     <td>=SUBTOTAL(3,B2:B10)</td>
   </tr>
-    <td>ADD/SUM</td>
-    <td>=SUM(A1:A10)</td>
+    <td>Count Rows</td>
+    <td>=ROWS(Array)</td>
   </tr>
-    <td>Average</td>
-    <td>=AVERAGE(C2, C3, C4)</td>
-</table>
+   </table>
