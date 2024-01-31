@@ -1,4 +1,4 @@
-# Excel_Functions
+# Excel_Functions/Formulae
 <h1>Repo for Excel Functions &amp; Formulae</h1>
 <table class="table table-bordered">
   <thead class="thead-light">
