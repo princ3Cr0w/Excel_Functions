@@ -5,7 +5,7 @@
     <tr>
 <table>
   <tr>
-    <th>Functions</th>
+    <th>Functions/Formula</th>
     <th>Syntax</th>
   </tr>
   <tr>
@@ -15,8 +15,9 @@
     <td>Count Filtered Rows</td>
     <td>=SUBTOTAL(3,B2:B10)</td>
   </tr>
-   </tr>
     <td>ADD/SUM</td>
     <td>=SUM(A1:A10)</td>
   </tr>
+    <td>Average</td>
+    <td>=AVERAGE(C2, C3, C4)</td>
 </table>
