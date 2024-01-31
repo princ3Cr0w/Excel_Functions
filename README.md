@@ -1,5 +1,5 @@
 # Excel_Functions/Formulae
-<h1>Repo for Excel Functions &amp; Formulae</h1>
+<h2>Repo for Excel Functions &amp; Formulae</h2>
 <table class="table table-bordered">
   <thead class="thead-light">
     <tr>
