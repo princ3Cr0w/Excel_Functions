@@ -15,6 +15,9 @@
      <td>Average</td>
     <td>=AVERAGE(C2, C3, C4)</td>
   </tr>
+  <td>Average if</td>
+  <td>=AVERAGEIF(B2:B5,"<23000")</td>
+  </tr>
     <td>Count Filtered Rows</td>
     <td>=SUBTOTAL(3,B2:B10)</td>
   </tr>
@@ -26,4 +29,8 @@
   </tr>
     <td>Concatenate</td>
     <td>=CONCATENATE(A2,B2,C2,D2)</td>
+  </tr>
+    <td>Count Blank</td>
+    <td>=COUNTBLANK(A2:B4)</td>
+  </tr>
    </table>
