@@ -1,6 +1,6 @@
 # Excel_Functions/Formulae
 <h2>Repo for Excel Functions &amp; Formulae</h2>
-<p>Quick access for analysis</p>
+<p>Quick cheat sheet for worksheet analysis</p>
 <table class="table table-bordered">
   <thead class="thead-light">
     <tr>
