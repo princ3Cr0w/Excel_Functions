@@ -1,6 +1,6 @@
 # Excel_Functions/Formulae
 <h2>Repo for Excel Functions &amp; Formulae</h2>
-<h3>Quick access for analysis</h3>
+<p>Quick access for analysis</p>
 <table class="table table-bordered">
   <thead class="thead-light">
     <tr>
