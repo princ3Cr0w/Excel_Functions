@@ -34,4 +34,9 @@
     <td>Count Blank</td>
     <td>=COUNTBLANK(A2:B4)</td>
   </tr>
+    <td>Count If</td>
+    <td>=COUNTIF(A2:A5,"London")</td>
+  </tr>
+    <td>Date</td>
+    <td>=DATE(C2,A2,B2)</td>
    </table>
