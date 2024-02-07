@@ -1,4 +1,12 @@
 # Excel_Functions/Formulae
+<br></br>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/1200px-Microsoft_Excel_2013_logo.svg.png" alt="Excel Logo" width="100"/><br>
+  <h1>Microsoft Excel</h1>
+  <p>Microsoft Excel is a spreadsheet program developed by Microsoft.</p>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><strong>Learn more</strong></a>
+</div>
+
 <h2>Repo for Excel Functions &amp; Formulae</h2>
 <p>Quick cheat sheet for worksheet analysis</p>
 <table class="table table-bordered">
