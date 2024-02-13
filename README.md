@@ -1,7 +1,8 @@
 # Excel_Functions/Formulae
-<br></br>
+<br>
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/1200px-Microsoft_Excel_2013_logo.svg.png" alt="Excel Logo" width="100"/><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Excel_2018_logo.svg.png" alt="Excel Logo" width="100"/>
+  <br>
   <h1>Microsoft Excel</h1>
   <p>Microsoft Excel is a spreadsheet program developed by Microsoft.</p>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><strong>Learn more</strong></a>
@@ -48,3 +49,39 @@
     <td>Date</td>
     <td>=DATE(C2,A2,B2)</td>
    </table>
+    
+### Syntax in markup version
+```r
+=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+
+=HLOOKUP(lookup_value, table_array, row_index_num, [range_lookup])
+
+=INDEX(return_range, MATCH(lookup_value, lookup_range, [match_type]))
+
+=SUMIF(range, criteria, [sum_range])
+
+=SUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)
+
+=COUNTIF(range, criteria)
+
+=COUNTIFS(criteria_range1, criteria1, [criteria_range2, criteria2], ...)
+
+=AVERAGEIF(range, criteria, [average_range])
+
+=IFERROR(value, value_if_error)
+
+=TEXTJOIN(delimiter, ignore_empty, text1, [text2], ...)
+
+=CONCATENATE(text1, [text2], ...)
+
+=SUBTOTAL(function_num, ref1, [ref2], ...)
+
+=INDIRECT(ref_text, [a1])
+
+
+
+
+
+
+
+
