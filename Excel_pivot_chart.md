@@ -6,7 +6,7 @@
 
 ![Snip](https://github.com/princ3Cr0w/Excel_Functions/blob/main/Screenshot%202024-02-15%20105310.png)
 
-<sup>Contrast between 2023-2024 with the .Net Runtime Error, VSS, Application Error, and Security</sup>
+<sup>Overall contrast between 2023-2024 of the total instances of .Net Runtime Error, VSS, Application Error, and Security Error</sup>
   
 ![Snip](https://github.com/princ3Cr0w/Excel_Functions/blob/main/Screenshot%202024-02-15%20121600.png)
 
