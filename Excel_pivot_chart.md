@@ -7,6 +7,9 @@
 ![Snip](https://github.com/princ3Cr0w/Excel_Functions/blob/main/Screenshot%202024-02-15%20105310.png)
 
 <sup>Overall contrast between 2023-2024 of the total instances of .Net Runtime Error, VSS, Application Error, and Security Error</sup>
+<br>
+
+<sup>Utilized slicer for itemized views</sup>
   
 ![Snip](https://github.com/princ3Cr0w/Excel_Functions/blob/main/Screenshot%202024-02-15%20121600.png)
 
