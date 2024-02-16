@@ -1,4 +1,4 @@
-## IT operational analysis using Excel to pinpoint Windows application crashing issues
+## IT operational analysis using Excel to pinpoint Windows applications crashing issues
 - [Task](#task)
 - [Method](#method)
 - [Analysis](#analysis)
