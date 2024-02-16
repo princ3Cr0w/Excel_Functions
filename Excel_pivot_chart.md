@@ -33,4 +33,4 @@
 <li>Engineer acknowledges my hypothesis why a constant slow-downs happen</li>
 <li>Engineer recommends to get Dell engineers to look closer on .Net errors</li>
 <li>I recommend analyzing events on the other machines in the premise and make a batch report</li>
-<li>Re-iterate analyis every quarter of the year to see any improvements/regression</li>
+<li>Re-iterate analysis every quarter of the year to see any improvements/regression</li>
