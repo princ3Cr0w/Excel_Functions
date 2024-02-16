@@ -1,4 +1,10 @@
 ## IT operational analysis using Excel to pinpoint Windows application crashing issues
+- [Task](#task)
+- [Method](#method)
+- [Analysis](#analysis)
+- [Visualization](#visualization)
+- [Outcome](#outcome)
+- [Recommendation](#recommendation)
 ## Task:
 <br>
 <li>There were multiple application crashes and hangups during the course of Oct 2023 to February 2024</li>
@@ -32,5 +38,8 @@
 <li>Communicated to engineer about my findings</li>
 <li>Engineer acknowledges my hypothesis why a constant slow-downs happen</li>
 <li>Engineer recommends to get Dell engineers to look closer on .Net errors</li>
+
+
+## Recommendation:
 <li>I recommend analyzing events on the other machines in the premise and make a batch report</li>
 <li>Re-iterate analysis every quarter of the year to see any improvements/regression</li>
