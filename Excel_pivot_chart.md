@@ -43,6 +43,7 @@
 ## Recommendation:
 <li>I recommend analyzing events on the other machines in the premise and make a batch report</li>
 <li>Re-iterate analysis every quarter of the year to see any improvements/regression</li>
+<li>Run security measures if backend applications are compromised</li>
 <br>
 
 >[!NOTE]
