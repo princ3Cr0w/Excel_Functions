@@ -43,3 +43,12 @@
 ## Recommendation:
 <li>I recommend analyzing events on the other machines in the premise and make a batch report</li>
 <li>Re-iterate analysis every quarter of the year to see any improvements/regression</li>
+<br>
+
+>[!NOTE]
+> Not a sample project/procedure but an actual root-cause case analysis in the premises using actual source* and machines
+<br>
+
+>[!Important]
+>*No sensitive data enclosed in this analysis
+
