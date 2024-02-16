@@ -35,7 +35,7 @@
 <sup>Overall combined findings where VSS appears most often</sup>
 ![Snip](https://github.com/princ3Cr0w/Excel_Functions/blob/main/Screenshot%202024-02-16%20103957.png)
 
-<sup>Combined years over time (plot)</sup><br>
+<sup>Combined years over time (line-plot combo)</sup><br>
 <sub>Orange (2024) Blue (2023)</sub>
 ![Snip](https://github.com/princ3Cr0w/Excel_Functions/blob/main/Screenshot%202024-02-16%20151730.png)
 
