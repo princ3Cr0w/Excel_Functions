@@ -5,8 +5,15 @@
 <li>Communicate with IT managed service team to get to the root cause</li>
 <li>Ask for recommendations on how to best mitigate these instances now and in the future</li>
 <br>
-<h3>First cleansed and aggregated the data to compress. Then, ran a pivot table and inserted charts to analyze application runtime error within [Windows Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer) which indicates crashing of some of the apps in Windows between 2023-2024 for comparison</h3>
+
+## Methodology:
+1.Accessed Event Manager (source) and filtered data showing errors, criticical, and warning status only
 <br>
+2.Imported filtered data in .CSV format
+<br>
+3.First cleansed and aggregated the data to compress. Then, ran a pivot table and inserted charts to analyze application runtime error within [Windows Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer) which indicates crashing of some of the apps in Windows between 2023-2024 for comparison<br>
+<br>
+## Visualization in pivot table worksheet
 <sup>.Net Runtime Error and Application Error had an uptick by 2024</sup>
 
 ![Snip](https://github.com/princ3Cr0w/Excel_Functions/blob/main/Screenshot%202024-02-15%20105310.png)
