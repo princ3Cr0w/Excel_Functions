@@ -8,7 +8,7 @@
 ## Task:
 <br>
 <li>There were multiple application crashes and hangups during the course of Oct 2023 to February 2024</li>
-<li>Communicate with IT managed service team to get to the root cause</li>
+<li>Communicate with IT managed service engineers to get to the root cause</li>
 <li>Ask for recommendations on how to best mitigate these instances now and in the future</li>
 <br>
 
