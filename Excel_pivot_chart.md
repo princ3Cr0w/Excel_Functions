@@ -1,6 +1,6 @@
 ## IT operational analysis using Excel to pinpoint Windows applications crashing issues
 - [Task](#task)
-- [Method](#method)
+- [Process](#process)
 - [Analysis](#analysis)
 - [Visualization](#visualization)
 - [Outcome](#outcome)
@@ -12,7 +12,7 @@
 <li>Ask for recommendations on how to best mitigate these instances now and in the future</li>
 <br>
 
-## Methodology:
+## Process:
 1.Accessed Event Manager (source) and filtered data showing errors, critical, and warning status only
 <br>
 2.Exported filtered data in .CSV format
