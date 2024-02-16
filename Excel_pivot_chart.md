@@ -52,7 +52,7 @@
 <br>
 
 >[!NOTE]
-> Not a sample project/procedure but an actual root-cause analysis in the premises using actual source* and machines
+> This project was in real-time root-cause analysis in the premises using actual source* and machines in Microsoft 365 Environment
 <br>
 
 >[!Important]
