@@ -40,7 +40,7 @@
 <li>Engineer recommends to get Dell engineers to look closer on .Net errors</li>
 
 
-## Recommendation:
+## Recommendation/s:
 <li>I recommend analyzing events on the other machines in the premise and make a batch report</li>
 <li>Re-iterate analysis every quarter of the year to see any improvements/regression</li>
 <li>Run security measures if backend applications are compromised</li>
