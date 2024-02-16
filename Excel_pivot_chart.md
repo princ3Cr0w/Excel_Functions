@@ -13,7 +13,7 @@
 <br>
 
 ## Methodology:
-1.Accessed Event Manager (source) and filtered data showing errors, criticical, and warning status only
+1.Accessed Event Manager (source) and filtered data showing errors, critical, and warning status only
 <br>
 2.Imported filtered data in .CSV format
 <br>
