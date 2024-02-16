@@ -14,6 +14,9 @@
   
 ![Snip](https://github.com/princ3Cr0w/Excel_Functions/blob/main/Screenshot%202024-02-15%20121600.png)
 
+<sup>Overall combined findings where VSS appears most often</sup>
+![Snip](https://github.com/princ3Cr0w/Excel_Functions/blob/main/Screenshot%202024-02-16%20103957.png)
+
 ## Outcome:
 <li>Communicated to engineer about my findings</li>
 <li>Engineer acknowledges my hypothesis why a constant slow-downs happen</li>
