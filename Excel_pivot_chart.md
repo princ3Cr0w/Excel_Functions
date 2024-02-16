@@ -46,7 +46,7 @@
 <br>
 
 >[!NOTE]
-> Not a sample project/procedure but an actual root-cause case analysis in the premises using actual source* and machines
+> Not a sample project/procedure but an actual root-cause analysis in the premises using actual source* and machines
 <br>
 
 >[!Important]
