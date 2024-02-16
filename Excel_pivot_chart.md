@@ -1,5 +1,6 @@
 ## IT operational analysis using Excel to pinpoint Windows application crashing issues
-
+## Task:
+<br>
 <h3>Ran a pivot table and inserted charts to analyze application runtime error within [Windows Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer) which indicates crashing of some of the apps in Windows between 2023-2024 for comparison</h3>
 <br>
 <sup>.Net Runtime Error and Application Error had an uptick by 2024</sup>
@@ -13,3 +14,9 @@
   
 ![Snip](https://github.com/princ3Cr0w/Excel_Functions/blob/main/Screenshot%202024-02-15%20121600.png)
 
+## Outcome:
+<li>Communicated to engineer about my findings</li>
+<li>Engineer acknowledges my hypothesis why a constant slow-downs happen</li>
+<li>Engineer recommends to get Dell engineers to look closer on .Net errors</li>
+<li>I recommend analyzing events on the other machines in the premise and make a batch report</li>
+<li>Re-iterate analyis every quarter of the year to see any improvements/regression</li>
