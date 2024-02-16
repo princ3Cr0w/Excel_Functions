@@ -17,7 +17,8 @@
 <br>
 2.Exported filtered data in .CSV format
 <br>
-3.First cleansed and aggregated the data to compress. Then, ran a pivot table and inserted charts to analyze application runtime error within [Windows Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer) which indicates crashing of some of the apps in Windows between 2023-2024 for comparison<br>
+3.First cleansed and aggregated the data to compress the variables. Then, ran a pivot table and inserted charts to analyze application runtime error within [Windows Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer) which indicates crashing of some of the apps in Windows between 2023-2024 for comparison<br>
+4.After successfully running pivot tables and plugging the event IDs, changed the value field settings to COUNT the event ID variables. 
 <br>
 ## Visualization in pivot table worksheet
 <sup>.Net Runtime Error and Application Error had an uptick by 2024</sup>
